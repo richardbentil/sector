@@ -1,0 +1,7 @@
+{
+    "sectors": [
+        {"manufacturing": ["Cloth", ["Clothe"]]},
+        {"other": ["Clothes2", ["Clothes3"]]},
+        {"service": ["Clothes4", ["Clothes5"]]}
+    ]
+}
