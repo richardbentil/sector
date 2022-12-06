@@ -24,5 +24,25 @@
     "sass": "^1.56.1",
     "typescript": "4.9.3",
     "yup": "^0.32.11"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardbentil/sector.git"
+  },
+  "keywords": [
+    "react",
+    "mongodb"
+  ],
+  "author": "Richard Bentil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardbentil/sector/issues"
+  },
+  "homepage": "https://github.com/richardbentil/sector#readme"
 }
